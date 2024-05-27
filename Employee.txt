@@ -1,0 +1,4 @@
+23	khalid	scientist	340000
+45	zubair	ceo	45678
+56	zubair	clerk	4.5e+07
+22	muhid	ambasador	6.7e+06

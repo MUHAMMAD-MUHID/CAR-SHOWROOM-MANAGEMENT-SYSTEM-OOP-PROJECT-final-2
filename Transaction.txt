@@ -1,0 +1,8 @@
+89	4.006e+06	suv	23	77	haneef
+78	3.4567e+06	sedan	34	22	javed
+11	670000	suv	56	22	hulk
+67	4.56e+06	sedan	21	12	zaman
+45	3344	suv	43	43	ers
+78	458900	suv	99	67	amber
+23	4.5e+07	suv	43	12	haseeb
+56	4.56e+07	suv	43	24	wee

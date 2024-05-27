@@ -1,0 +1,9 @@
+11	muhid	buy	paid	yes
+22	halchal		bought	pending	yes
+89	khalid		bought	paid	no
+22	hulk		bought	installment	yes
+12	zaman		bought	paid	no
+43	ers		qwr	ww	wer
+67	amber		pending	paid	yes
+12	haseeb		pending	paid	no
+24	wee		hfh	566	777
